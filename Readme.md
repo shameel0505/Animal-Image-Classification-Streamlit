@@ -14,7 +14,6 @@ An interactive **animal image classifier** built with **TensorFlow**, **Keras**,
 ---
 
 ## 🖥️ Demo Preview
-*(Add your own screenshot here)*  
 ![App Screenshot](demo_screenshot.png)
 
 ---
