@@ -14,7 +14,7 @@ An interactive **animal image classifier** built with **TensorFlow**, **Keras**,
 ---
 
 ## 🖥️ Demo Preview
-![App Screenshot](Screenshot 2025-08-08 at 14.14.41.png)
+![App Screenshot](Screenshot_2025-08-08_at_14.14.41.png)
 
 ---
 📂 Animal-Image-Classification-Streamlit/
