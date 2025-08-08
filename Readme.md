@@ -14,7 +14,7 @@ An interactive **animal image classifier** built with **TensorFlow**, **Keras**,
 ---
 
 ## 🖥️ Demo Preview
-![App Screenshot](demo_screenshot.png)
+![App Screenshot](Screenshot 2025-08-08 at 14.14.41.png)
 
 ---
 📂 Animal-Image-Classification-Streamlit/
@@ -38,11 +38,11 @@ An interactive **animal image classifier** built with **TensorFlow**, **Keras**,
 └── README.md                        # Documentation
 
 ## ⚙️ Installation & Setup
-1️⃣ **Clone the repository**
 ```bash
+#to clone
 git clone https://github.com/shameel0505/Animal-Image-Classification-Streamlit.git
 cd Animal-Image-Classification-Streamlit
-''Install dependencies''
+#Install dependencies
 pip install -r requirements.txt
-''to run''
+#to run
 streamlit run app.py
