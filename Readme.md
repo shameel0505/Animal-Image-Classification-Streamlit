@@ -17,28 +17,25 @@ An interactive **animal image classifier** built with **TensorFlow**, **Keras**,
 ![App Screenshot](demo_screenshot.png)
 
 ---
-
-## 📂 Project Structure
-
-Animal-Image-Classification-Streamlit/
+📂 Animal-Image-Classification-Streamlit/
 │
-├── animal_classification/         # Trained .h5 models
+├── animal_classification/           # Trained .h5 models
 │   ├── densenet121.h5
 │   ├── efficientnet_b0.h5
 │   ├── inceptionv3.h5
 │   ├── MobileNetV2.h5
 │   └── ResNet.h5
 │
-├── app.py                          # Streamlit app
-├── train_densenet121.ipynb         # DenseNet121 training notebook
-├── train_resnet.ipynb              # ResNet50 training notebook
-├── train_efficientnetb0.ipynb      # EfficientNetB0 training notebook
-├── train_inceptionv3.ipynb         # InceptionV3 training notebook
-├── train_mobilenetv2.ipynb         # MobileNetV2 training notebook
-├── requirements.txt                # Python dependencies
-└── README.md                       # Documentation
-
----
+├── app.py                           # Streamlit app
+│
+├── train_densenet121.ipynb          # DenseNet121 training notebook
+├── train_resnet.ipynb               # ResNet50 training notebook
+├── train_efficientnetb0.ipynb       # EfficientNetB0 training notebook
+├── train_inceptionv3.ipynb          # InceptionV3 training notebook
+├── train_mobilenetv2.ipynb          # MobileNetV2 training notebook
+│
+├── requirements.txt                 # Python dependencies
+└── README.md                        # Documentation
 
 ## ⚙️ Installation & Setup
 1️⃣ **Clone the repository**
